@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26211" started-at="2020-10-09T05:35:22 IST" finished-at="2020-10-09T05:35:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26211" started-at="2020-10-09T05:35:22 IST" finished-at="2020-10-09T05:35:49 IST">
+      <class name="Product.ValidateMyStore">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Product.ValidateMyStore@4b1c1ea0]" name="initialize" is-config="true" duration-ms="12409" started-at="2020-10-09T05:35:22 IST" finished-at="2020-10-09T05:35:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="clickOnsignin()[pri:0, instance:Product.ValidateMyStore@4b1c1ea0]" name="clickOnsignin" duration-ms="1256" started-at="2020-10-09T05:35:35 IST" finished-at="2020-10-09T05:35:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnsignin -->
+        <test-method status="PASS" signature="login()[pri:1, instance:Product.ValidateMyStore@4b1c1ea0]" name="login" duration-ms="2854" started-at="2020-10-09T05:35:36 IST" finished-at="2020-10-09T05:35:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="ProductSelection()[pri:2, instance:Product.ValidateMyStore@4b1c1ea0]" name="ProductSelection" duration-ms="6164" started-at="2020-10-09T05:35:39 IST" finished-at="2020-10-09T05:35:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductSelection -->
+        <test-method status="PASS" signature="productAddToCart()[pri:3, instance:Product.ValidateMyStore@4b1c1ea0]" name="productAddToCart" duration-ms="3356" started-at="2020-10-09T05:35:45 IST" finished-at="2020-10-09T05:35:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productAddToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Product.ValidateMyStore@4b1c1ea0]" name="tearDown" is-config="true" duration-ms="97" started-at="2020-10-09T05:35:48 IST" finished-at="2020-10-09T05:35:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Product.ValidateMyStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

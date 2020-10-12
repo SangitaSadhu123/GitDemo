@@ -1,0 +1,4 @@
+# Created at 2020-10-09T04:26:51.085
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Advance Java(Globsyn)\WIPRO JSP SERVLET\MyStore\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
